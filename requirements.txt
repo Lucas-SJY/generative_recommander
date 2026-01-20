@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-dotenv
+sqlalchemy
+psycopg[binary]
+pgvector
+requests
+pydantic
+pydantic-settings
+numpy
+pandas
+tqdm

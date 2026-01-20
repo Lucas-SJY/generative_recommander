@@ -1,0 +1,5 @@
+pg_usrname: appuser
+pg_pwd: Lucas@
+db_name = vectordb
+
+CREATE EXTENSION IF NOT EXISTS pg_trgm;
